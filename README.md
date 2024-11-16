@@ -52,3 +52,22 @@ Follow these steps to run the project locally:
    cd client
    npm install
    cd ..
+   
+---
+
+## Usage
+1. Login/Register: Use Google OAuth for a secure login process.
+2. Browse Properties: Explore the latest property listings using filters
+3. List Your Property: Add property details to make them available to buyers.
+4. nteractive Dashboard: Manage listings, inquiries, and account settings.
+
+---
+
+## Contact
+For questions or suggestions, feel free to reach out:
+• Raj Nayan
+• Email: raj2303nayan@gmail.com
+• GitHub: https://github.com/rajnayan07
+
+
+   
